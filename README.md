@@ -46,23 +46,6 @@ git clone https://github.com/seu-usuario/seu-repo.git
 cd seu-repo
 ```
 
-### 2. Crie e ative um ambiente virtual
-
-```bash
-python -m venv venv
-```
-
-**No Windows:**
-
-```bash
-venv\Scripts\activate
-```
-
-**No Linux/Mac:**
-
-```bash
-source venv/bin/activate
-```
 
 ### 3. Instale as dependências
 
